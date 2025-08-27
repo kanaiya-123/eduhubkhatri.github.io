@@ -1,1 +1,2 @@
-# eduhubkhatri.github.io
+this is first respository 
+my name is kanaiya
